@@ -1,0 +1,9 @@
+li:first-child{
+    background: yellow;
+}
+li:last-child{
+    background: red;
+}
+li:nth-child(2n){
+    color: orange;
+}

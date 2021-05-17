@@ -1,0 +1,18 @@
+body{
+    background:#adadad;
+    font-family: trebuchet ms;
+    color: black;
+}
+
+.ejercicio {
+    border: solid;
+    border-width: 1px;
+    background-color: white;
+    margin: 0px;
+    padding: 5px;
+}
+
+.boton {
+    color: white;
+    background-color: blue;
+}
